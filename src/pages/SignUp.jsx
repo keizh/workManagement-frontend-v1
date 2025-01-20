@@ -108,7 +108,7 @@ export function SignUp() {
           Sign Up
         </Typography>
         <Typography color="gray" className="mt-1 font-normal" align="center">
-          Welcome to Workasana
+          Welcome to WorkManagement
         </Typography>
         <form
           onSubmit={onSubmitHandler}
